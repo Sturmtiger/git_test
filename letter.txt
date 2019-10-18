@@ -1,1 +1,2 @@
 First entry(master)
+Second entry(master)

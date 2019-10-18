@@ -1,2 +1,3 @@
 First entry(master)
 Second entry(master)
+Second entry(second branch)
